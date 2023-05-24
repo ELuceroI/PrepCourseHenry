@@ -1,2 +1,3 @@
 # PrepCourseHenry
-Repositorio de prueba mod.2
+Prueba para crear repositorio GitHub
+
